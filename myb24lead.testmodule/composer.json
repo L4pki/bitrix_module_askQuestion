@@ -1,0 +1,10 @@
+{
+    "name": "yourname/myb24lead.testmodule",
+    "description": "Модуль для интеграции формы с Битрикс24",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "YourNamespace\\": "lib/"
+        }
+    }
+}
