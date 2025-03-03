@@ -1,1 +1,0 @@
-# bitrix_module_askQuestion
